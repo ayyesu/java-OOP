@@ -1,0 +1,17 @@
+Create a class called "Person" that has the following properties:
+•	First Name (String)
+•	Last Name (String)
+•	Age (int)
+•	Gender (String)
+•	Phone Number (String)
+The class should also have the following methods:
+•	A method to return the full name of the person (first name + last name).
+•	A method to return the age of the person.
+•	A method to return the gender of the person.
+•	A method to return the phone number of the person.
+•	A method to set the first name of the person.
+•	A method to set the last name of the person.
+•	A method to set the age of the person.
+•	A method to set the gender of the person.
+•	A method to set the phone number of the person.
+Once you have created the "Person" class, create a driver class that creates a few Person objects and sets and gets their properties.

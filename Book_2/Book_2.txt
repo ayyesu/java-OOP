@@ -1,0 +1,22 @@
+Create a class called "Book" that has the following properties:
+•	Title (String)
+•	Author (String)
+•	ISBN (String)
+•	Publication Date (String)
+•	Number of Pages (int)
+The class should also have the following methods:
+•	A method to return the title of the book.
+•	A method to return the author of the book.
+•	A method to return the ISBN of the book.
+•	A method to return the publication date of the book.
+•	A method to return the number of pages of the book.
+•	A method to set the title of the book.
+•	A method to set the author of the book.
+•	A method to set the ISBN of the book.
+•	A method to set the publication date of the book.
+•	A method to set the number of pages of the book.
+•	A method to check if the book is a long book (more than 500 pages).
+•	A method to check if the book is a recent publication (publication date is within the last 5 years).
+ ⁃ Once you have created the "Book" class, create a driver class that creates a few Book objects and sets and gets their properties. 
+
+ ⁃ Then, use the methods you created in the Book class to check if each book is a long book and a recent publication.

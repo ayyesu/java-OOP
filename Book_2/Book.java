@@ -84,6 +84,7 @@ public class Book {
         System.out.println("Title of Book: " + book1.getTitle());
         System.out.println("Author of Book: " + book1.getAuthor());
         System.out.println("ISBN of Book: " + book1.getIsbn());
+        System.out.println("Publication Date: " + book1.getPublicationDate());
         System.out.println("Is book a recent Publication: " + book1.checkPublicationDate());
         System.out.println("Number of pages: " + book1.getPageNumber());
         System.out.println("Checking if book is long: " + book1.isBookLong());

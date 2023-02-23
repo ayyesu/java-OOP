@@ -1,0 +1,10 @@
+Create a Java class Person with the following attributes:
+•	name (a string)
+•	age (an int)
+•	address (a string)
+The class should have the following methods:
+ • getName(): This method should return the name of the person.
+ • getAge(): This method should return the age of the person.
+ • getAddress(): This method should return the address of the person.
+ • setAddress(String address): This method should set the address of the person.
+You should also write a Main class that creates two Person objects, sets their attributes, and demonstrates the use of each of the methods.

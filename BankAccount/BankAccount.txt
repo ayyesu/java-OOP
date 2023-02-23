@@ -1,0 +1,8 @@
+Create a Java class BankAccount that has the following attributes:
+•	accountNumber (a string)
+•	balance (a double)
+The class should have the following methods:
+•	deposit(double amount): This method should allow the user to deposit money into their account. It should add the amount to the balance and return the new balance.
+•	withdraw(double amount): This method should allow the user to withdraw money from their account. If the amount is greater than the balance, it should return an error message "Insufficient balance". Otherwise, it should subtract the amount from the balance and return the new balance.
+•	getBalance(): This method should return the current balance.
+You should also write a Main class that creates two BankAccount objects and demonstrates the use of each of the methods.

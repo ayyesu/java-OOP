@@ -1,0 +1,6 @@
+Create a Java class Circle that has the following attributes:
+•	radius (a double)
+•	The class should have the following methods:
+•	getArea(): This method should return the area of the circle, which is calculated as π * radius^2.
+•	getCircumference(): This method should return the circumference of the circle, which is calculated as 2 * π * radius.
+You should also write a Main class that creates two Circle objects, sets their radius, and demonstrates the use of each of the methods.

@@ -1,0 +1,17 @@
+Create a Movie class that has the following fields:
+•	title (String)
+•	director (String)
+•	releaseYear (int)
+•	duration (int) in minutes
+•	rating (double)
+Implement the following methods in the Movie class:
+•	A constructor that takes in all the fields as parameters and initializes them.
+•	getTitle() and setTitle() methods that allow you to retrieve and set the value of the title field.
+•	getDirector() and setDirector() methods that allow you to retrieve and set the value of the director field.
+•	getReleaseYear() and setReleaseYear() methods that allow you to retrieve and set the value of the releaseYear field.
+•	getDuration() and setDuration() methods that allow you to retrieve and set the value of the duration field.
+•	getRating() and setRating() methods that allow you to retrieve and set the value of the rating field.
+•	isLongMovie() method that returns true if the movie's duration is more than 2 hours (120 minutes), and false otherwise.
+•	isHighlyRated() method that returns true if the movie's rating is higher than 4.0, and false otherwise.
+Create a driver class that creates 3 Movie objects, sets their values, and then retrieves and displays all the fields of each object. 
+Use the methods you implemented in the Movie class to print whether each movie is a long movie or a highly rated movie.

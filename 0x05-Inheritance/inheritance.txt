@@ -1,0 +1,31 @@
+Create a Java class Animal with the following attributes:
+•	name (a string)
+•	age (an int)
+The class should have the following methods:
+•	makeSound(): This method should return a string representing the sound the animal makes (for example, "Roar" for a lion). Make this method abstract, as different animals make different sounds.
+•	getName(): This method should return the name of the animal.
+•	getAge(): This method should return the age of the animal.
+•	setAge(int age): This method should set the age of the animal.
+Then, create three subclasses of Animal: Lion, Tiger, and Elephant. Each of these subclasses should implement the makeSound() method with the appropriate sound for that animal.
+You should also write a Main class that creates objects of each of the three subclasses, sets their ages, and demonstrates the use of the getName(), getAge(), setAge(), and makeSound() methods.
+
+
+
+Create a Java class Employee that has the following attributes:
+•	name (a string)
+•	salary (a double)
+•	position (a string)
+•	email (a string)
+•	phone (a string)
+The class should have the following methods:
+•	setName(String name): This method should set the name of the employee.
+•	setSalary(double salary): This method should set the salary of the employee.
+•	setPosition(String position): This method should set the position of the employee.
+•	setEmail(String email): This method should set the email of the employee.
+•	setPhone(String phone): This method should set the phone of the employee.
+•	getName(): This method should return the name of the employee.
+•	getSalary(): This method should return the salary of the employee.
+•	getPosition(): This method should return the position of the employee.
+•	getEmail(): This method should return the email of the employee.
+•	getPhone(): This method should return the phone of the employee.
+You should also write a Main class that creates two Employee objects, sets their attributes, and demonstrates the use of each of the methods.

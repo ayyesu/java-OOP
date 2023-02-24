@@ -1,0 +1,28 @@
+Create a Java interface Shape that has the following methods:
+•	double getArea(): This method should return the area of the shape.
+•	double getPerimeter(): This method should return the perimeter of the shape.
+Create an abstract class AbstractShape that implements the Shape interface and has the following attributes:
+•	color (a string)
+The class should have the following methods:
+•	setColor(String color): This method should set the color of the shape.
+•	getColor(): This method should return the color of the shape.
+Create a class Rectangle that extends the AbstractShape class and has the following attributes:
+•	width (a double)
+•	height (a double)
+The class should have the following methods:
+•	setWidth(double width): This method should set the width of the rectangle.
+•	setHeight(double height): This method should set the height of the rectangle.
+•	getWidth(): This method should return the width of the rectangle.
+•	getHeight(): This method should return the height of the rectangle.
+•	getArea(): This method should return the area of the rectangle, which is calculated as width * height.
+•	getPerimeter(): This method should return the perimeter of the rectangle, which is calculated as 2 * (width + height).
+•	toString(): This method should return a string representation of the rectangle, including its width, height, color, and area and perimeter.
+Create a class Circle that extends the AbstractShape class and has the following attribute:
+•	radius (a double)
+The class should have the following methods:
+•	setRadius(double radius): This method should set the radius of the circle.
+•	getRadius(): This method should return the radius of the circle.
+•	getArea(): This method should return the area of the circle, which is calculated as π * radius * radius.
+•	getPerimeter(): This method should return the circumference of the circle, which is calculated as 2 * π * radius.
+•	toString(): This method should return a string representation of the circle, including its radius, color, and area and perimeter.
+In the Main class, create two Rectangle objects and two Circle objects, set their attributes, and demonstrate the use of each of the methods.

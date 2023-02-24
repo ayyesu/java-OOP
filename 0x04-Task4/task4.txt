@@ -1,0 +1,41 @@
+Create a Java class Person with the following attributes:
+•	name (a string)
+•	age (an integer)
+•	gender (a string)
+The class should have the following methods:
+•	setName(String name): This method should set the name of the person.
+•	setAge(int age): This method should set the age of the person.
+•	setGender(String gender): This method should set the gender of the person.
+•	getName(): This method should return the name of the person.
+•	getAge(): This method should return the age of the person.
+•	getGender(): This method should return the gender of the person.
+•	Create a Java class Employee that extends the Person class and has the following additional attributes:
+•	salary (a double)
+•	jobTitle (a string)
+The class should have the following additional methods:
+•	setSalary(double salary): This method should set the salary of the employee.
+•	setJobTitle(String jobTitle): This method should set the jobTitle of the employee.
+•	getSalary(): This method should return the salary of the employee.
+•	getJobTitle(): This method should return the jobTitle of the employee.
+You should also write a Main class that creates an Employee object, sets its attributes, and demonstrates the use of each of the methods.
+
+
+Create a Java class Student that has the following attributes:
+•	name (a string)
+•	age (an integer)
+•	grades (an array of doubles)
+The class should have the following methods:
+•	getName(): This method should return the student's name.
+•	getAge(): This method should return the student's age.
+•	getGrades(): This method should return the student's grades.
+•	getAverage(): This method should calculate and return the student's average grade.
+You should also write a Main class that creates an array of Student objects, populates it with data, and then calculates and prints out the average grade for each student.
+
+
+Create a Java class Rectangle that has the following attributes:
+•	width (a double)
+•	height (a double)
+The class should have the following methods:
+•	getArea(): This method should return the area of the rectangle, which is calculated as width * height.
+•	getPerimeter(): This method should return the perimeter of the rectangle, which is calculated as 2 * (width + height).
+You should also write a Main class that creates two Rectangle objects, sets their width and height, and demonstrates the use of each of the methods.
